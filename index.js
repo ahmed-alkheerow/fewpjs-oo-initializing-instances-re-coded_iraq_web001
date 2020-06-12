@@ -11,6 +11,6 @@ class lunch {
   constructor(salad, soup) {
     this.salad = salad;
     this.soup = soup;
-    
+
   }
 }
